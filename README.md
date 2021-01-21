@@ -1,6 +1,6 @@
 # Second-Moment Loss
 
-The second-moment loss (SML) is a novel training objective for dropout-based regression networks that yields improved uncertainty estimates. The code accompanies our paper "Second-Moment Loss: A Novel Regression Objective for Improved Uncertainties" and allows to reproduce the results therein.
+The second-moment loss (SML) is a novel training objective for dropout-based regression networks that yields improved uncertainty estimates. The code accompanies our paper ["Second-Moment Loss: A Novel Regression Objective for Improved Uncertainties"](https://arxiv.org/abs/2012.12687) and allows to reproduce the results therein.
 
 ## Overview
 
